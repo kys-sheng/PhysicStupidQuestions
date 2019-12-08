@@ -1,0 +1,85 @@
+What and Where to Look:
+
+CVC hypothesis:
+->griffith chapter 9 -> pg 320
+
+CP
+->P broken in Weak -> chirality-dependent
+-> CP together
+->charge conjugation is a symmetry between particles and antiparticles ->Charge conjugation changes the sign of all quantum charges (that is, additive quantum numbers), including the electrical charge, baryon number and lepton number, and the flavor charges strangeness, charm, bottomness, topness and Isospin (I3).
+->
+->https://en.wikipedia.org/wiki/CP_violation#CP_violation_in_the_Standard_Model
+
+There is no “rest frame” in which a massless particle is at rest.
+-> m^2 = E^2 - p^2
+-> E^2 = p^2 
+-> if p =0, E=0, -> no particle exist
+
+Why is unitary operator in QM expressed in terms of exponential with Hamiltonian? And how to get e.o.m in Heisenberg pic
+->QM need U to satisifed some shit eg U^{t}U = 1, U act on ket(eigenvector), infintisimal change,  ...
+-> it is a lie group -> Hamiltonain happens to be the generator
+	->sakurai, eq 2.1.15 -> 2.1.24,2.1.25-> 2.2.15
+	
+
+Origins of Uncertainty principle?
+->Need to look back at the fourier analysis.
+->one can probably get the inequality from fourier analysis
+->https://en.wikipedia.org/wiki/Uncertainty_principle#Introduction
+
+No-go theorem(Mandula) and avoiding No-go(...)
+->SUSY-REVISION-marialaach_susy07.pdf
+
+Hierarchy Problem
+->Naturalness_Notes(Hierarchy_Problem).pdf
+
+Do γ matrices commute with the Dirac spinor field?
+->No, spinor is the "vectors" that acted on by the gamma amtrix
+
+Why we can treat complex conjugate fields as a distinct/separate fields in QFT
+->complex numbers can be seen as a+ib. where a and b are linearly independent. More appropriate way would be to use a and b as the fiels rather a+ib and a-ib. But nonetheless, it can shown that theyre are infact the same. 
+->https://physics.stackexchange.com/questions/89002/why-treat-complex-scalar-field-and-its-complex-conjugate-as-two-different-fields/89009
+
+Difference betwenn regularization and renormalization
+->regularize -> inroduce shit so tht it is not divergenct
+->renormalize -> redo shit in order to take away shit and make divergent things cancel
+->https://physics.stackexchange.com/questions/119745/difference-between-regularization-and-renormalization
+
+Internal and External Symmetry:
+->Symmetry-Lectures(External_and_internal_Symmetries)
+
+Noether <-> Symmetry:
+->https://physicstravelguide.com/theorems/noethers_theorems#tab__abstract (Global -> charge, local -> eom)
+
+Fermion Mass from Higgs:
+-> (https://openaccess.leidenuniv.nl/bitstream/handle/1887/18506/02.pdf?sequence=11)
+
+Yukawa interaction:
+-> (HOW YUK + CKM + ETC	) FlavorPhysics_Dresden_Zeuthen(pg33).pdf
+-> (What da faq is CKM) 0605217(eq4).pdf
+-> https://physics.stackexchange.com/questions/267308/lagrangian-of-yukawa-interaction-and-quark-mixing
+-> (charge conjugate higgs doublet) https://indico.desy.de/indico/event/6527/contribution/6/material/slides/0.pdf
+
+Lie Algebra:
+-> Peskin - pg495 
+	-> particularlly for fundamental reperesentation and adjoint representation(for adj rep, around pg 498 and 499 (quite good))
+
+-> https://www.physicsforums.com/insights/lie-algebras-a-walkthrough-the-basics/
+	-> vocab for lie algebra (might be confusing, if read this few times couldnt understanding, take this of the list)
+
+-> Young Tableux
+	-> sym-Young-Tableux.pdf (look at how it works) : N = dim, Nbar = dim, antisym(row = dim), dim as direct sum -> n-tiplets
+
+Higgs:
+->why Higgs is a EW doublet:
+	->Because through dirac mass -> the term doesnt respect SU(2) gauge transformation -> create Higgs doublet to make a mass term that respect the gauge transf:
+		->(Look at Mass term -> Higgs Mechamism)https://en.wikipedia.org/wiki/Mathematical_formulation_of_the_Standard_Model#Mass_terms
+
+->why do we have a neutral and charged higgs in the higgs doublet?
+	->Because Higgs is a EW doublet 
+	->Look at generators(Q,T3,Y) => T3 based on upper or lower element of doublet => Q=> from Higg's coupling with Wboson after symbreak
+		->https://physics.stackexchange.com/questions/116663/higgs-doublet-a-charged-and-a-neutral-component
+
+->Why two higgs doublt in SUSY:
+	->https://physics.stackexchange.com/questions/116598/why-more-than-one-higgs
+	->https://physics.stackexchange.com/questions/46061/why-are-two-higgs-doublets-required-in-susy
+
