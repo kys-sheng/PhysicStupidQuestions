@@ -25,6 +25,8 @@ Origins of Uncertainty principle?
 ->Need to look back at the fourier analysis.
 ->one can probably get the inequality from fourier analysis
 ->https://en.wikipedia.org/wiki/Uncertainty_principle#Introduction
+->In general, more stretched out a function is, the more concentrated its Fourier dual is.
+->https://en.wikipedia.org/wiki/Fourier_transform#Uncertainty_principle
 
 No-go theorem(Mandula) and avoiding No-go(...)
 ->SUSY-REVISION-marialaach_susy07.pdf
