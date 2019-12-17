@@ -1,5 +1,11 @@
 What and Where to Look:
 
+Helicity and Chirality of Massive particles
+->https://physics.stackexchange.com/questions/161170/how-can-we-measure-chirality-in-experiments/161522#161522
+*on Spin,Helicity and Chirality
+->Schwartz pg185
+->wikipedia
+
 CVC hypothesis:
 ->griffith chapter 9 -> pg 320
 
