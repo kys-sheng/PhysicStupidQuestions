@@ -3,8 +3,12 @@ What and Where to Look:
 Minimal Flavor Violation(MFV) and SU(5):
 ->https://arxiv.org/pdf/1506.09201.pdf
 ->in essence, you change the yukawa coupling into a spurions
-->spurion, meaning that the the yuk term here is the vev of broken symmetry
+->spurion, meaning that the the yuk term here is the "vev" of broken symmetry
+	*NOTE: vev here is not neccesary the vev in Higgs mechanism, I said vev is in the sense that it is just a counting measure of a broken symmetry. vev of higgs come form the breaking of EW symm. Spurion analysis allows us to obtain the coupling associated to this symmtetry breaking via the vev. You can do this similarly for other symmetry, the flavor symmetry breaking gives you the "vev", as such you can relate this back to the coupling associated with this symmetry.
 ->where in this case, the symmetry is a flavor symmetry
+
+Spurions;
+https://www.physicsforums.com/threads/spurion-symmetry.205417/
 
 Brief Review on SU(5) GUT:
 ->https://arxiv.org/pdf/0807.4841.pdf
