@@ -1,14 +1,5 @@
 What and Where to Look:
 
-Brief Review on SU(5) GUT:
-->https://arxiv.org/pdf/0807.4841.pdf
-->SU(3)xSU(2)xU(1) ->rank4 (number of generators that commutes, U(1) gen commute anyhow, SU(N) have N-1 commuting gen-> SU(2) have 1, SU(3) have 2, total 4)
-->Check possible rank4 lie group and see whether can explain same shit that we have in SM, need EM
-->left SU(5)
-->24adjoint rep
-->found out that it can split into 2 irrep 5bar and 10 for each gen
-->need all to be left, use antiright fermion (essentially becomes left)
-->3family of 5+10
 
 
 CVC hypothesis:
